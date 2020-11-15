@@ -1,0 +1,52 @@
+.cv
+{
+	background-color: rgba(0,64,0,0.5);
+	text-align: center;
+	text-shadow: 2px 2px 4px rgb(0,64,0);
+	
+}
+.corp
+{
+	background-color: rgba(128,128,128,0.5);
+	
+
+}
+.ul ,.li,.date ,.nati,.num,.ad ,.mon,.ma,.for
+{
+	font-weight: bold;
+	text-shadow: 1px 1px 4px black;
+}
+.img
+{
+	float: right;
+	width: 150px;
+	height: 150px;
+	border: 2px rgb(0,0,0) solid;
+	border-radius: 10px;
+}
+.h0,.h1,.h2
+{
+	color: rgb(128,128,64);
+	font-weight: bold;
+	font-family: impact;
+}
+.nav
+{
+	background-color: rgb(0,0,0);
+	width: 75%;
+	height:500px;
+	border-radius: 10px;
+}
+#conteneur1
+{
+	display: flex;
+	
+}
+.h2
+{
+	align-self: center;
+}
+#conteneur2
+{
+	display: flex;
+}
